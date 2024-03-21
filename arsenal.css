@@ -1,0 +1,524 @@
+.Titre{
+    background-color: red;
+    color: white;
+}
+
+.larg{
+    width: 1324px;
+    
+}
+
+.ab{
+    border-style:solid;
+    border-width: medium;
+    border-color: red;
+}
+
+.ac{
+    border-style:solid;
+    border-width: medium;
+    border-color: red;
+}
+
+.ad{
+    border-style:solid;
+    border-width:medium;
+    border-color: red;
+}
+
+.tableau{
+    position: relative;
+    bottom: 15cm;
+}
+
+img.logo{
+    width: 130px;
+    height: 130px;
+    position: relative;
+    left: 790px;
+    top: 20px;
+}
+
+.presentation{
+    text-indent: 920px;
+    position: relative;
+    bottom: 120px;
+}
+
+.presentation1{
+    text-indent: 920px;
+    position: relative;
+    bottom: 130px;
+}
+
+.presentation2{
+    text-indent: 920px;
+    position: relative;
+    bottom: 140px;
+}
+
+.presentation3{
+    text-indent: 920px;
+    position: relative;
+    bottom: 150px;
+}
+
+.presentation4{
+    text-indent: 820px;
+    position: relative;
+    bottom: 120px;  
+}
+
+.presentation5{
+    text-indent: 820px;
+    position: relative;
+    bottom: 130px;
+}
+
+.presentation6{
+    text-indent: 820px;
+    position: relative;
+    bottom: 140px;
+}
+
+.presentation7{
+    text-indent: 820px;
+    position: relative;
+    bottom: 150px;
+}
+
+.presentation8{
+    text-indent: 820px;
+    position: relative;
+    bottom: 160px;
+}
+
+img.facebook{
+    height: 110px;
+    width: 110px;
+    position: relative;
+    left: 820px;
+    bottom: 160px;
+}
+
+img.twitter{
+    height: 110px;
+    width: 110px;
+    position: relative;
+    left: 880px;
+    bottom: 160px;
+}
+
+img.instagram{
+    height: 110px;
+    width: 110px;
+    position: relative;
+    left: 940px;
+    bottom: 160px;
+}
+
+img.premierleague{
+    height: 140px;
+    width: 140px;
+    position: relative;
+    bottom: 490px;
+}    
+
+.terrain{
+    background-image:url("stade8.jpg");
+    background-size:cover;
+}
+
+img.martinelli{
+  width: 100px;  
+  height: 80px;
+  position: relative;
+  left: 115px;
+}
+
+img.jesus{
+    width: 100px;  
+    height: 80px;
+    position: relative;
+    left: 517px;
+    
+}
+
+img.bukayo{
+    width: 100px;  
+    height: 80px;
+    position: relative;
+    left: 920px;
+    
+}
+
+img.havertz{
+    width: 100px;  
+    height: 80px;
+    position: relative;
+    left: 270px;
+}
+
+img.rice{
+    width: 100px;  
+    height: 80px;
+    position: relative;
+    left: 510px;
+    top: 15px;
+}
+
+img.odegaard{
+    width: 100px;  
+    height: 80px;
+    position: relative;
+    left: 755px;
+}
+
+img.zinchenko{
+    width: 100px;  
+    height: 80px;
+    position: relative;
+    left: 10px;
+    
+}
+
+img.gabriel{
+    width: 100px;  
+    height: 80px;
+    position: relative;
+    left: 335px;
+}
+
+img.saliba{
+    width: 100px;  
+    height: 80px;
+    position: relative;
+    left: 640px;
+    
+}
+
+img.white{
+    width: 100px;  
+    height: 80px;
+    position: relative;
+    left: 935px;
+    
+}
+
+img.raya{
+    width: 100px;  
+    height: 80px;
+    position: relative;
+    left: 630px;
+    
+}
+
+#pound{
+    display: flex;
+    justify-content: space-between;
+}
+
+#MARTINELLI{
+    position: relative;
+    left: 100px;
+}
+
+#JESUS{
+    position: relative;
+    right: 40px;
+}
+
+#SAKA{
+    position: relative;
+    right: 130px;
+ }
+
+ #RICE{
+    position: relative;
+    top: 15px;
+ } 
+#pound1{
+    display: flex;
+    justify-content:space-evenly;
+}
+
+#pound2{
+    display: flex;
+    justify-content: space-between;
+}
+
+#pound3{
+    display: flex;
+    justify-content: center;
+}
+
+#RAYA{
+    position: relative;
+    left: 10px;
+}
+
+.equipe{
+    border-color:red;
+    border-width: 3px;
+}
+
+.nom,.prenom,.numero,.poste{
+    width: 200px;
+    border-width: 2px;
+    border-color: black;
+    
+}
+
+.joueur1{
+    font-size:larger;
+}
+
+.hr{
+    background-color: grey;
+}
+
+.gunner{
+    height: 120px;
+    width: 120px;
+    position: relative;
+    bottom: 2.5cm;
+}
+
+.arsenal{
+    font-size: larger;
+    position: relative;
+    text-indent: 10cm;
+    bottom: 6.2cm;
+}
+
+.pl{
+    height: 40px;
+    width: 40px;
+    position: relative;
+    left:9.8cm;
+    bottom: 6.5cm;
+}
+
+.league{
+    text-indent: 11cm;
+    position: relative;
+    bottom: 7.8cm;
+}
+
+.angleterre{
+    height: 20px;
+    width: 20px;
+    position: relative;
+    left: 12cm;
+    bottom: 8cm;
+}
+
+.ligue{
+    text-indent: 9.8cm;
+    position: relative;
+    bottom: 9cm;
+}
+
+.division{
+    text-indent: 12.7cm;
+    position: relative;
+    bottom: 9.9cm
+}
+
+.depuis{
+    text-indent: 9.8cm;
+    position: relative;
+    bottom: 10.2cm;
+}
+.j2019{
+    text-indent: 13.6cm;
+    position: relative;
+    bottom: 11.1cm;
+}
+
+.contrat{
+    text-indent: 9.8cm;
+    position: relative;
+    bottom: 11.4cm;
+}
+
+.juin{
+    text-indent: 12.7cm;
+    position: relative;
+    bottom: 12.28cm;
+}
+
+.age{
+    text-indent: 6.75cm;
+    position: relative;
+    bottom: 12cm;
+}
+
+.naissance{
+    text-indent: 9.8cm;
+    position: relative;
+    bottom: 12.9cm;
+}
+
+.lieu{
+    text-indent: 6.8cm;
+    position: relative;
+    bottom: 13.2cm;
+}
+
+.lon{
+    text-indent: 8.7cm;
+    position: relative;
+    bottom: 15.19cm;
+}
+
+.ang{
+    height: 20px;
+    width: 20px;
+    position: relative;
+    bottom: 14.2cm;
+    left: 7.9cm
+}
+
+.nationalite{
+    text-indent: 6.8cm;
+    position: relative;
+    bottom: 15.4cm;
+}
+
+.an{
+    height: 20px;
+    width: 20px;
+    position: relative;
+    left: 9cm;
+    bottom:16.4cm
+}
+
+.taille{
+    text-indent: 6.8cm;
+    position: relative;
+    bottom: 16.8cm;
+}
+
+.metre{
+    text-indent: 8cm;
+    position: relative;
+    bottom: 17.7cm;
+}
+
+.position{
+    text-indent: 6.8cm;
+    position: relative;
+    bottom: 18cm;
+}
+
+.ailier{
+    text-indent: 8.5cm;
+    position: relative;
+    bottom: 18.9cm;
+}
+
+.actuel{
+    text-indent: 6.8cm;
+    position: relative;
+    bottom: 19.2cm;
+}
+
+.en{
+    height: 20px;
+    width: 20px;
+    position: relative;
+    bottom: 20.1cm;
+    left: 11cm;
+}
+
+.england{
+    text-indent: 11.7cm;
+    position: relative;
+    bottom: 21.13cm;
+}
+
+.selection{
+    text-indent: 6.8cm;
+    position: relative;
+    bottom: 21.4cm;
+}
+
+.but{
+    text-indent: 12.4cm;
+    position: relative;
+    bottom: 22.3cm;
+}
+
+.facup{
+    height: 120px;
+    width: 120px;
+    position: relative;
+}
+
+.shield{
+    height: 120px;
+    width: 120px;
+    position: relative;
+}
+
+.btn{
+    position: relative;
+    bottom: 1cm;
+    border:red 1px solid;
+    margin:2px;
+    font-size:24px
+    cursor:pointer;
+    width:30px;
+    height:30px;
+    border-radius:50%;
+}
+
+.btn1{
+    position: relative;
+    bottom: 1cm;
+    left: 2.3cm;
+    border:red 1px solid;
+    margin:2px;
+    font-size:24px
+    cursor:pointer;
+    width:30px;
+    height:30px;
+    border-radius:50%;
+}
+
+.b{
+  font-size:1.5cm;
+}
+
+.encad{
+    border-width: 1px solid;
+    border-left: 3px solid;
+    border-color:red ;
+    position: relative;
+    left: 4cm;
+}
+
+.t{
+    background-color:#00aded;
+    color: white;
+    width: 6.5cm;
+    height: 1.5cm;
+    position: relative;
+    bottom: 24.2cm;
+}
+
+.n{
+    font-size: 1cm;
+    position: relative;
+    left: 4cm;
+    bottom: 1.3cm;
+}
+
+.m{
+    font-size: 1.2cm;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    
+
+}
